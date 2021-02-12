@@ -1,4 +1,4 @@
-# google-play-store-apps
+# nlp-app-recommendation
 
 ![](https://i.ibb.co/LNmnk58/1-h-Dq-C5-H28uy-S3-Ic8m-Bm-Sul-Q.png)
 
